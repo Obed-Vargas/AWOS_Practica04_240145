@@ -4,3 +4,5 @@ fase2 ✅
 fase3 ✅
 fase4 ✅
 fase5 ✅
+fase6 ✅
+
